@@ -16,6 +16,7 @@ mileage2 = 150000
 mileage3 = 75000
 mileage4 = 34000
 
+<<<<<<< HEAD
 # exterior
 color1 = "miscellaneous"
 color = "black"
@@ -52,6 +53,8 @@ fueldiesel
 automatic
 manual
 
+=======
+>>>>>>> ca065e13aed6e0f69a00ca8b464dd860cd935f03
 # output without def
 puts "The #{car1} is priced at $#{price1}."
 puts "The #{car2} has #{mileage2} miles."
